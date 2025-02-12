@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SafeServe-PHI-Manager](https://github.com/SeneshFitzroy/SafeServe-PHI-Manager.git)
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on innovative software projects, tech startups, and solutions in areas like project management, full-stack development, and digital transformation.**
+-  **I’m looking to collaborate on innovative software projects, tech startups, and solutions in areas like project management, full-stack development, and digital transformation.**
 
 - 📫 How to reach me **seneshfitzroy@gmail.com**
 
