@@ -5,9 +5,9 @@
 
 - *I’m looking to collaborate on innovative software projects, tech startups, and solutions in areas like project management, full-stack development, and digital transformation.*
 
-- 📫 How to reach me *seneshfitzroy@gmail.com*
+- 📫 How to reach me: [seneshfitzroy@gmail.com](mailto:seneshfitzroy@gmail.com)
 
-- 📄 Know about my experiences [CV.pdf](CV.pdf)
+- 📄 Know about my experiences: [CV.pdf](CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,10 +58,12 @@
 
 #### 🚀 **GitHub Activity:**
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SeneshFitzroy&theme=radical&hide_border=true)
+
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeneshFitzroy&theme=radical)
 
 #### 🔥 **Technical Skills:**
 ![Skills](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeneshFitzroy&theme=radical)
+
 ![Top Frameworks](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SeneshFitzroy&theme=radical)
 
 #### 🏆 **Project Management & IT Expertise:**
