@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/SeneshFitzroy" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/X_logo_2023.svg/1200px-X_logo_2023.svg.png" alt="seneshfitzroy" height="30" width="40" />
+    <img align="center" src="https://th.bing.com/th/id/OIP.PmtJAgpGPCx8YvsR4isengHaHa?rs=1&pid=ImgDetMain" alt="seneshfitzroy" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/seneshfitzroy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seneshfitzroy" height="30" width="40" />
@@ -59,14 +59,16 @@
 #### 🚀 **GitHub Activity:**
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SeneshFitzroy&theme=radical&hide_border=true)
 
+#### 📈 **GitHub Contributions:**
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeneshFitzroy&theme=radical)
 
 #### 🔥 **Technical Skills:**
 ![Skills](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeneshFitzroy&theme=radical)
 
+#### 🏆 **Top Frameworks:**
 ![Top Frameworks](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SeneshFitzroy&theme=radical)
 
-#### 🏆 **Project Management & IT Expertise:**
+#### 📅 **Work Stats:**
 ![Work Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeneshFitzroy&theme=radical&utcOffset=8)
 
 ---
