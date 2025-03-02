@@ -9,21 +9,36 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
+
+### **Professional Connections:**
 <p align="left">
   <a href="https://x.com/SeneshFitzroy" target="blank">
-    <img align="center" src="https://th.bing.com/th/id/OIP.PmtJAgpGPCx8YvsR4isengHaHa?rs=1&pid=ImgDetMain" alt="seneshfitzroy" height="30" width="40" />
+    <img align="center" src="https://th.bing.com/th/id/OIP.PmtJAgpGPCx8YvsR4isengHaHa?rs=1&pid=ImgDetMain" alt="seneshfitzroy" height="30" width="30" />
   </a>
   <a href="https://linkedin.com/in/seneshfitzroy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seneshfitzroy" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seneshfitzroy" height="30" width="30" />
   </a>
-  <a href="https://web.facebook.com/dinura.senesh.9" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seneshfitzroy" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/seneshx" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seneshx" height="30" width="40" />
+  <a href="https://meta.stackexchange.com/users/1710137/senesh-fitzroy" target="blank">
+    <img align="center" src="https://iconape.com/wp-content/png_logo_vector/stack-exchange-icon.png" alt="meta.stackexchange" height="30" width="30" />
   </a>
   <a href="https://dev.to/seneshfitzroy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="seneshfitzroy" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="seneshfitzroy" height="30" width="30" />
+  </a>
+</p>
+
+### **Social Connections:**
+<p align="left">
+  <a href="https://web.facebook.com/dinura.senesh.9" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seneshfitzroy" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/seneshx" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seneshx" height="30" width="30" />
+  </a>
+  <a href="https://www.tiktok.com/@seneshx" target="blank">
+    <img align="center" src="https://th.bing.com/th/id/OIP.UccL2MLy8uPXxbejEmvE6AHaH4?rs=1&pid=ImgDetMain" alt="seneshx" height="30" width="30" />
+  </a>
+  <a href="https://www.threads.net/@seneshx" target="blank">
+    <img align="center" src="https://th.bing.com/th/id/OIP.FJ2rxJYdlVhRJ2kGR9-g6QHaHa?rs=1&pid=ImgDetMain" alt="seneshx" height="30" width="30" />
   </a>
 </p>
 
