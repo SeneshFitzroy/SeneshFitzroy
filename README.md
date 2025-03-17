@@ -24,6 +24,15 @@
   <a href="https://dev.to/seneshfitzroy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="seneshfitzroy" height="30" width="30" />
   </a>
+<a href="https://www.ieee.org" target="blank">
+    <img align="center" src="https://ucr-uas.weebly.com/uploads/1/1/3/9/113967103/ieee-logo2.jpg" alt="IEEE" height="30" width="30" />
+  </a>
+ <a href="https://styava.dev/profile/profileoverview" target="blank">
+    <img align="center" src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F9231%2F308ca5d6-20d5-4a32-af57-90ddde88c50c.png" alt="Styava Profile" height="30" width="30" />
+  </a>
+ <a href="https://www.linkedin.com/company/ibm" target="blank">
+    <img align="center" src="https://logos-world.net/wp-content/uploads/2020/10/IBM-Logo-1962.png" alt="IBM" height="30" width="30" />
+  </a>
 </p>
 
 ### **Social Connections:**
