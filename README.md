@@ -1,7 +1,7 @@
 <h1 align="center">Senesh Fitzroy – Strategic Project Manager | Software Developer</h1>
 <h3 align="center">BSc (Hons) Software Engineering | Plymouth University, UK</h3>
 
-- 🔭 I’m currently working on [SafeServe-PHI-Manager](https://github.com/SeneshFitzroy/SafeServe-PHI-Manager.git)
+- 🔭 I’m currently working on [Portfolio-Website](https://github.com/SeneshFitzroy/TechStack-Portfolio.git)
 - *I’m looking to collaborate on innovative software projects, tech startups, and solutions in areas like project management, full-stack development, and digital transformation.*
 - 📫 How to reach me: [seneshfitzroy@gmail.com](mailto:seneshfitzroy@gmail.com)
 - 📄 Know about my experiences: [CV.pdf](CV.pdf)
