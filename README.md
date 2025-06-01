@@ -1,4 +1,4 @@
-<h1 align="center">Senesh Fitzroy – Strategic Project Manager | Software Developer</h1>
+<h1 align="center">Full-Stack Developer | Strategic Project Manager</h1>
 <h3 align="center">BSc (Hons) Software Engineering | Plymouth University, UK</h3>
 
 - 🔭 I’m currently working on [Portfolio-Website](https://github.com/SeneshFitzroy/TechStack-Portfolio.git)
