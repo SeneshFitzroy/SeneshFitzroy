@@ -1,5 +1,8 @@
-<h1 align="center">Full-Stack Developer | Strategic Project Manager</h1>
-<h3 align="center">BSc (Hons) Software Engineering | Plymouth University, UK</h3>
+<div align="center">
+  <h1 style="font-family: 'Rubik Wet Paint', cursive; color: #001554; text-shadow: 2px 2px 6px rgba(255, 94, 20, 0.4);">Full-Stack Developer | Strategic Project Manager</h1>
+  <h3 style="color: #1A1818; font-weight: 700;">BSc (Hons) Software Engineering | Plymouth University, UK</h3>
+  <p style="color: #666; font-size: 1.1rem;">Contact: <a href="mailto:fitzroysenesh@gmail.com" style="color: #FF5E14; text-decoration: none;">fitzroysenesh@gmail.com</a> | Phone: (+94) 76 112 0457</p>
+</div>
 
 - 🔭 I’m currently working on [Portfolio-Website](https://github.com/SeneshFitzroy/TechStack-Portfolio.git)
 - *I’m looking to collaborate on innovative software projects, tech startups, and solutions in areas like project management, full-stack development, and digital transformation.*
