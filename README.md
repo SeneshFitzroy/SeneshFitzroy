@@ -4,10 +4,13 @@
   <p style="color: #666; font-size: 1.1rem;">Contact: <a href="mailto:fitzroysenesh@gmail.com" style="color: #FF5E14; text-decoration: none;">fitzroysenesh@gmail.com</a> | Phone: (+94) 76 112 0457</p>
 </div>
 
-- 🔭 I’m currently working on [Portfolio-Website](https://github.com/SeneshFitzroy/TechStack-Portfolio.git)
-- *I’m looking to collaborate on innovative software projects, tech startups, and solutions in areas like project management, full-stack development, and digital transformation.*
-- 📫 How to reach me: [seneshfitzroy@gmail.com](mailto:seneshfitzroy@gmail.com)
-- 📄 Know about my experiences: [CV.pdf](CV.pdf)
+## 🌟 About Me
+
+I’m a detail-oriented professional passionate about turning ideas into innovative solutions. With expertise in full-stack development and strategic project management, I excel in dynamic, collaborative environments, delivering impactful results. Currently, I’m enhancing my portfolio and contributing to open-source projects.
+
+- Check my TechStack Portfolio for updates - [TechStack Portfolio](https://github.com/SeneshFitzroy/TechStack-Portfolio.gt) (On Process)
+- 🔭 I’m currently working on [ToolNTask](https://github.com/SeneshFitzroy/ToolnTask.git)
+- 📄 Know about my experiences: [CV.pdf](https://liveplymouthac-my.sharepoint.com/:b:/g/personal/10952757_students_plymouth_ac_uk/EayKB7EIkG9Mu2GnftzZ2wMBW6uufHHSsCSSkougtB5t3w?e=sYipJR)
 
 ---
 
