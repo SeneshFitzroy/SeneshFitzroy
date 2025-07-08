@@ -8,7 +8,7 @@
 
 I’m a detail-oriented professional passionate about turning ideas into innovative solutions. With expertise in full-stack development and strategic project management, I excel in dynamic, collaborative environments, delivering impactful results. Currently, I’m enhancing my portfolio and contributing to open-source projects.
 
-- Check my TechStack Portfolio for updates - [TechStack Portfolio](https://github.com/SeneshFitzroy/TechStack-Portfolio.gt) (On Process)
+- Check my TechStack Portfolio for updates - [TechStack Portfolio](https://seneshfitzroy.netlify.app/)
 - 🔭 I’m currently working on [ToolNTask](https://github.com/SeneshFitzroy/ToolnTask.git)
 - 📄 Know about my experiences: [CV.pdf](https://liveplymouthac-my.sharepoint.com/:b:/g/personal/10952757_students_plymouth_ac_uk/EayKB7EIkG9Mu2GnftzZ2wMBW6uufHHSsCSSkougtB5t3w?e=sYipJR)
 
@@ -154,9 +154,22 @@ I’m a detail-oriented professional passionate about turning ideas into innovat
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+  </a>
+  <a href="https://tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+  <a href="https://www.jupyter.org" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/240px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png" alt="powerbi" width="40" height="40"/> 
+  </a>
 </p>
-
----
 
 ### 📊 **GitHub Stats & Skill Graphs**
 
@@ -165,6 +178,12 @@ I’m a detail-oriented professional passionate about turning ideas into innovat
 
 #### 📈 **GitHub Contributions:**
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeneshFitzroy&theme=radical)
+
+#### 📈 **GitHub Contributions & Profile Insights**
+![GitHub Profile Summary](https://github-readme-stats.vercel.app/api?username=SeneshFitzroy&show_icons=true&theme=radical&include_all_commits=true)
+
+#### 🔥 **Technical Skills Breakdown**
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeneshFitzroy&theme=dracula&layout=compact&langs_count=8&hide=html,css)
 
 #### 🔥 **Technical Skills:**
 ![Skills](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeneshFitzroy&theme=radical)
