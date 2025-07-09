@@ -20,57 +20,25 @@
 
 ---
 
-Hi there! I'm a Full-Stack Developer and Project Manager with a passion for building robust, user-centric applications from concept to deployment. I excel at bridging the gap between technical execution and strategic planning to deliver projects efficiently and effectively.
+I'm a Full-Stack Developer and Project Manager who bridges the gap between technical execution and strategic planning to deliver impactful applications.
 
--   🔭 **Currently Building:** **[ToolNTask](https://github.com/SeneshFitzroy/ToolnTask.git)**, a full-featured project management tool designed to streamline team collaboration and productivity.
--   🌱 **Always Learning:** Actively contributing to open-source and exploring advancements in cloud-native technologies and system design.
--   👯 **Open to Collaboration:** Looking to partner on innovative projects, particularly in the fields of productivity tools and FinTech.
+- 🔭 **Currently Building:** [ToolNTask](https://github.com/SeneshFitzroy/ToolnTask.git), a sharing economy platform for Sri Lanka using Next.js and Firebase.
+- 🌱 **Actively Exploring:** Cloud-native tech, system design, and open-source contributions.
+- 👯 **Open to Collaborating:** Eager to partner on innovative FinTech and productivity tools.
+
 ### 🔗 Connect with Me
 
-<p align="center">
-  <strong>Professional</strong>
-  <br/>
-  <a href="https://linkedin.com/in/seneshfitzroy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/SeneshFitzroy" target="_blank">
-    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-  </a>
-  <a href="https://dev.to/seneshfitzroy" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"/>
-  </a>
-  <a href="https://meta.stackexchange.com/users/1710137/senesh-fitzroy" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Exchange-1E5A96?style=for-the-badge&logo=stackexchange&logoColor=white" alt="Stack Exchange"/>
-  </a>
-  <a href="https://www.ieee.org" target="_blank">
-    <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE"/>
-  </a>
-  <a href="https://www.ibm.com" target="_blank">
-    <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
-  </a>
-  <a href="https://styava.dev/profile/profileoverview" target="_blank">
-    <img src="https://img.shields.io/badge/Styava-333333?style=for-the-badge" alt="Styava"/>
-  </a>
-  <br/><br/>
-  <strong>Social</strong>
-  <br/>
-  <a href="https://web.facebook.com/dinura.senesh.9" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/seneshx" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.tiktok.com/@seneshx" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://www.threads.net/@seneshx" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
-  </a>
+<p>
+  <a href="https://linkedin.com/in/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/SeneshFitzroy" target="_blank"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+  <a href="https://dev.to/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"/></a>
+  <a href="https://meta.stackexchange.com/users/1710137/senesh-fitzroy" target="_blank"><img src="https://img.shields.io/badge/Stack_Exchange-1E5A96?style=for-the-badge&logo=stackexchange&logoColor=white" alt="Stack Exchange"/></a>
+  <a href="https://styava.dev/profile/profileoverview" target="_blank"><img src="https://img.shields.io/badge/Styava-333333?style=for-the-badge" alt="Styava"/></a>
+  <a href="https://www.ieee.org" target="_blank"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE"/></a>
+  <a href="https://www.ibm.com" target="_blank"><img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/></a>
 </p>
 
-### 🛠️ My Tech Stack & Tools
-
-A showcase of the primary tools and technologies I utilize in my projects.
+### 🛠️ Technologies & Professional Toolkit
 
 <table>
   <!-- Cloud & Deploy -->
