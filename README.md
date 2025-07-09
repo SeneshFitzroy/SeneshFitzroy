@@ -121,29 +121,24 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
 </table>
 
 
-### 📊 **GitHub Stats & Skill Graphs**
+<table align="center">
+  <!-- Row 1: General Stats -->
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SeneshFitzroy&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Profile Summary" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeneshFitzroy&theme=radical" alt="GitHub Contributions" /></td>
+  </tr>
+  <!-- Row 2: Activity & Languages -->
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SeneshFitzroy&theme=radical&hide_border=true" alt="GitHub Activity Streak" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeneshFitzroy&theme=dracula&layout=compact&langs_count=8&hide=html,css" alt="Technical Skills Breakdown" /></td>
+  </tr>
+  <!-- Row 3: Skills & Productivity -->
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeneshFitzroy&theme=radical" alt="Technical Skills" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeneshFitzroy&theme=radical&utcOffset=8" alt="Work Stats" /></td>
+  </tr>
+</table>
 
-#### 🚀 **GitHub Activity:**
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SeneshFitzroy&theme=radical&hide_border=true)
-
-#### 📈 **GitHub Contributions:**
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeneshFitzroy&theme=radical)
-
-#### 📈 **GitHub Contributions & Profile Insights**
-![GitHub Profile Summary](https://github-readme-stats.vercel.app/api?username=SeneshFitzroy&show_icons=true&theme=radical&include_all_commits=true)
-
-#### 🔥 **Technical Skills Breakdown**
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeneshFitzroy&theme=dracula&layout=compact&langs_count=8&hide=html,css)
-
-#### 🔥 **Technical Skills:**
-![Skills](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeneshFitzroy&theme=radical)
-
-#### 🏆 **Top Frameworks:**
-![Top Frameworks](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SeneshFitzroy&theme=radical)
-
-#### 📅 **Work Stats:**
-![Work Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeneshFitzroy&theme=radical&utcOffset=8)
-
----
-
-🔥 *Driven by innovation, technology, and strategic execution.* 🚀
+<p align="center">
+  🔥 <em>Driven by innovation, technology, and strategic execution.</em> 🚀
+</p>
