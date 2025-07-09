@@ -6,22 +6,25 @@
     <a href="https://linkedin.com/in/seneshfitzroy" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:fitzroysenesh@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
     <a href="https://seneshfitzroy.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5E14?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://liveplymouthac-my.sharepoint.com/:b:/g/personal/10952757_students_plymouth_ac_uk/EayKB7EIkG9Mu2GnftzZ2wMBW6uufHHSsCSSkougtB5t3w?e=sYipJR" target="_blank">
+      <img src="https://img.shields.io/badge/CV-239120?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV"/>
+    </a>
+    <a href="mailto:fitzroysenesh@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 </div>
 
-## 🌟 About Me
+---
 
-I’m a detail-oriented professional passionate about turning ideas into innovative solutions. With expertise in full-stack development and strategic project management, I excel in dynamic, collaborative environments, delivering impactful results. Currently, I’m enhancing my portfolio and contributing to open-source projects.
+Hi there! I'm a Full-Stack Developer and Project Manager with a passion for building robust, user-centric applications from concept to deployment. I excel at bridging the gap between technical execution and strategic planning to deliver projects efficiently and effectively.
 
-- 🔭 I’m currently working on [ToolNTask](https://github.com/SeneshFitzroy/ToolnTask.git)
-- 📄 Know about my experiences: [CV.pdf](https://liveplymouthac-my.sharepoint.com/:b:/g/personal/10952757_students_plymouth_ac_uk/EayKB7EIkG9Mu2GnftzZ2wMBW6uufHHSsCSSkougtB5t3w?e=sYipJR)
-
+-   🔭 **Currently Building:** **[ToolNTask](https://github.com/SeneshFitzroy/ToolnTask.git)**, a full-featured project management tool designed to streamline team collaboration and productivity.
+-   🌱 **Always Learning:** Actively contributing to open-source and exploring advancements in cloud-native technologies and system design.
+-   👯 **Open to Collaboration:** Looking to partner on innovative projects, particularly in the fields of productivity tools and FinTech.
 ### 🔗 Connect with Me
 
 <p align="center">
