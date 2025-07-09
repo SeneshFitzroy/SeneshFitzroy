@@ -1,14 +1,24 @@
 <div align="center">
   <h1 style="font-family: 'Rubik Wet Paint', cursive; color: #001554; text-shadow: 2px 2px 6px rgba(255, 94, 20, 0.4);">Full-Stack Developer | Strategic Project Manager</h1>
   <h3 style="color: #1A1818; font-weight: 700;">BSc (Hons) Software Engineering | Plymouth University, UK</h3>
-  <p style="color: #666; font-size: 1.1rem;">Contact: <a href="mailto:fitzroysenesh@gmail.com" style="color: #FF5E14; text-decoration: none;">fitzroysenesh@gmail.com</a> | Phone: (+94) 76 112 0457</p>
+
+  <p>
+    <a href="https://linkedin.com/in/seneshfitzroy" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:fitzroysenesh@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://seneshfitzroy.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5E14?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
 </div>
 
 ## 🌟 About Me
 
 I’m a detail-oriented professional passionate about turning ideas into innovative solutions. With expertise in full-stack development and strategic project management, I excel in dynamic, collaborative environments, delivering impactful results. Currently, I’m enhancing my portfolio and contributing to open-source projects.
 
-- Check my TechStack Portfolio for updates - [TechStack Portfolio](https://seneshfitzroy.netlify.app/)
 - 🔭 I’m currently working on [ToolNTask](https://github.com/SeneshFitzroy/ToolnTask.git)
 - 📄 Know about my experiences: [CV.pdf](https://liveplymouthac-my.sharepoint.com/:b:/g/personal/10952757_students_plymouth_ac_uk/EayKB7EIkG9Mu2GnftzZ2wMBW6uufHHSsCSSkougtB5t3w?e=sYipJR)
 
