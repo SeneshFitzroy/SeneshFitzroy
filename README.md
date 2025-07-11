@@ -3,7 +3,7 @@
   <h3 style="color: #1A1818; font-weight: 700;">BSc (Hons) Software Engineering | Plymouth University, UK</h3>
 
   <p>
-    <a href="https://linkedin.com/in/seneshfitzroy" target="_blank">
+    <a href="https://www.linkedin.com/in/senesh-fitzroy-812151263/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://seneshfitzroy.netlify.app/" target="_blank">
