@@ -19,6 +19,7 @@
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SeneshFitzroy&color=blue)
+[![Support me](https://img.shields.io/badge/Support%20me-coff.ee/seneshfitzroy-blue?color=yellow)](https://coff.ee/seneshfitzroy)
 ---
 
 I'm a Full-Stack Developer and Project Manager who bridges the gap between technical execution and strategic planning to deliver impactful applications.
