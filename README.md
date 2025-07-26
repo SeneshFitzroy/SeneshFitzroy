@@ -39,7 +39,6 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
   <a href="https://meta.stackexchange.com/users/1710137/senesh-fitzroy" target="_blank"><img src="https://img.shields.io/badge/Stack_Exchange-1E5A96?style=for-the-badge&logo=stackexchange&logoColor=white" alt="Stack Exchange"/></a>
   <a href="https://styava.dev/profile/profileoverview" target="_blank"><img src="https://img.shields.io/badge/Styava-333333?style=for-the-badge" alt="Styava"/></a>
   <a href="https://www.ieee.org" target="_blank"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE"/></a>
-  <a href="https://www.ibm.com" target="_blank"><img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/></a>
 </p>
 
 ### 🛠️ Technologies & Professional Toolkit
