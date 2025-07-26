@@ -35,6 +35,7 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
   <a href="https://x.com/SeneshFitzroy" target="_blank"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
   <a href="https://www.reddit.com/user/SeneshFitzroy/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
   <a href="https://dev.to/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"/></a>
+  <a href="https://medium.com/@SeneshFitzroy" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://meta.stackexchange.com/users/1710137/senesh-fitzroy" target="_blank"><img src="https://img.shields.io/badge/Stack_Exchange-1E5A96?style=for-the-badge&logo=stackexchange&logoColor=white" alt="Stack Exchange"/></a>
   <a href="https://styava.dev/profile/profileoverview" target="_blank"><img src="https://img.shields.io/badge/Styava-333333?style=for-the-badge" alt="Styava"/></a>
   <a href="https://www.ieee.org" target="_blank"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE"/></a>
