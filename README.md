@@ -28,7 +28,7 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
 - 🌱 **Actively Exploring:** Cloud-native tech, system design, and open-source contributions.
 - 👯 **Open to Collaborating:** Eager to partner on innovative FinTech and productivity tools.
 
-<h3>🔗 Connect with Me</h3>
+### 🔗 Connect with Me
 
 <p>
   <a href="https://linkedin.com/in/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
