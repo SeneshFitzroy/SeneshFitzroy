@@ -24,7 +24,6 @@
 
 I'm a Full-Stack Developer and Project Manager who bridges the gap between technical execution and strategic planning to deliver impactful applications.
 
-- 🔭 **Currently Building:** [ToolNTask](https://github.com/SeneshFitzroy/ToolnTask.git), a sharing economy platform for Sri Lanka using Next.js and Firebase.
 - 🌱 **Actively Exploring:** Cloud-native tech, system design, and open-source contributions.
 - 👯 **Open to Collaborating:** Eager to partner on innovative FinTech and productivity tools.
 
