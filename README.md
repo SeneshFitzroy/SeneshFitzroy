@@ -33,6 +33,7 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
   <a href="https://linkedin.com/in/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.behance.net/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
   <a href="https://dribbble.com/10952757ce7d" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
+  <a href="https://www.figma.com/@SeneshFitzroy" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
   <a href="https://dev.to/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"/></a>
   <a href="https://medium.com/@SeneshFitzroy" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://x.com/SeneshFitzroy" target="_blank"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
