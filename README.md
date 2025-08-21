@@ -30,6 +30,7 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
 ### 🔗 Connect with Me
 
 <p>
+  <a href="https://gitlab.com/SeneshFitzroy" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
   <a href="https://linkedin.com/in/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.behance.net/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
   <a href="https://dribbble.com/10952757ce7d" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
