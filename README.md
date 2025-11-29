@@ -133,17 +133,18 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
 <br/>
 
 <div align="center">
-  <!-- GitHub Stats (Gold Theme - Optimized) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SeneshFitzroy&show_icons=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&icon_color=FFD700&border_color=FFD700" alt="SeneshFitzroy GitHub Stats" height="180"/>
-  <!-- Streak Stats (Gold Theme - Optimized) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeneshFitzroy&ring=FFD700&fire=FFD700&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FFD700&sideLabels=c9d1d9&background=0d1117&border=FFD700&hide_border=false" alt="SeneshFitzroy Streak" height="180"/>
+  <!-- GitHub Stats (Fixed encoding) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SeneshFitzroy&amp;show_icons=true&amp;bg_color=0d1117&amp;title_color=FFD700&amp;text_color=c9d1d9&amp;icon_color=FFD700&amp;border_color=FFD700" alt="SeneshFitzroy GitHub Stats" height="180"/>
+  
+  <!-- Streak Stats (Fixed encoding) -->
+  <img src="https://streak-stats.demolab.com?user=SeneshFitzroy&amp;ring=FFD700&amp;fire=FFD700&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=FFD700&amp;sideLabels=c9d1d9&amp;background=0d1117&amp;border=FFD700&amp;hide_border=false" alt="SeneshFitzroy Streak" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Top Languages (Gold Theme - Optimized) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeneshFitzroy&layout=compact&langs_count=8&hide=html,css&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&icon_color=FFD700&border_color=FFD700" alt="SeneshFitzroy Top Languages" />
+  <!-- Top Languages (Fixed encoding) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeneshFitzroy&amp;layout=compact&amp;langs_count=8&amp;hide=html,css&amp;bg_color=0d1117&amp;title_color=FFD700&amp;text_color=c9d1d9&amp;icon_color=FFD700&amp;border_color=FFD700" alt="SeneshFitzroy Top Languages" />
 </div>
 
 <p align="center">
