@@ -18,10 +18,7 @@
   </p>
 </div>
 
-![alt text](https://komarev.com/ghpvc/?username=SeneshFitzroy&color=blue)
-
-
-![alt text](https://img.shields.io/badge/Support%20me-coff.ee/seneshfitzroy-blue?color=yellow)
+![alt text](https://komarev.com/ghpvc/?username=SeneshFitzroy&color=blue) ![alt text](https://img.shields.io/badge/Support%20me-coff.ee/seneshfitzroy-blue?color=yellow)
 
 I'm a Full-Stack Developer and Project Manager who bridges the gap between technical execution and strategic planning to deliver impactful applications.
 
