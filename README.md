@@ -32,6 +32,7 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
 <p>
   <a href="https://gitlab.com/SeneshFitzroy" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
   <a href="https://linkedin.com/in/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://www.behance.net/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
   <a href="https://dribbble.com/10952757ce7d" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
   <a href="https://www.figma.com/@SeneshFitzroy" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
@@ -66,6 +67,7 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
       <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></a>
       <a href="https://www.php.net" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
       <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+      <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB"/></a>
       <a href="https://dart.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
       <a href="https://go.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
       <br><strong>Frameworks & Runtimes:</strong><br>
@@ -79,6 +81,7 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
     <td align="center"><strong>💾 Databases</strong></td>
     <td>
       <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+      <a href="https://supabase.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
       <a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
       <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server"/></a>
@@ -95,6 +98,7 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
       <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
       <a href="https://reactnative.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
       <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+      <a href="https://www.electronjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron"/></a>
       <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
       <br><strong>UI & Styling:</strong><br>
       <a href="https://ui.shadcn.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI"/></a>
@@ -114,6 +118,7 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
       <a href="https://visualstudio.microsoft.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/></a>
       <br><strong>Design & PM:</strong> 
       <a href="https://www.figma.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+      <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/></a>
       <a href="https://powerbi.microsoft.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
       <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/></a>
       <a href="https://www.notion.so" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
@@ -125,24 +130,21 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
   </tr>
 </table>
 
+<br/>
 
-<table align="center">
-  <!-- Row 1: General Stats -->
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SeneshFitzroy&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Profile Summary" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeneshFitzroy&theme=radical" alt="GitHub Contributions" /></td>
-  </tr>
-  <!-- Row 2: Activity & Languages -->
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SeneshFitzroy&theme=radical&hide_border=true" alt="GitHub Activity Streak" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeneshFitzroy&theme=dracula&layout=compact&langs_count=8&hide=html,css" alt="Technical Skills Breakdown" /></td>
-  </tr>
-  <!-- Row 3: Skills & Productivity -->
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeneshFitzroy&theme=radical" alt="Technical Skills" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeneshFitzroy&theme=radical&utcOffset=8" alt="Work Stats" /></td>
-  </tr>
-</table>
+<div align="center">
+  <!-- GitHub Stats (Gold Theme - Optimized) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SeneshFitzroy&show_icons=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&icon_color=FFD700&border_color=FFD700" alt="SeneshFitzroy GitHub Stats" height="180"/>
+  <!-- Streak Stats (Gold Theme - Optimized) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeneshFitzroy&ring=FFD700&fire=FFD700&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FFD700&sideLabels=c9d1d9&background=0d1117&border=FFD700&hide_border=false" alt="SeneshFitzroy Streak" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Top Languages (Gold Theme - Optimized) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeneshFitzroy&layout=compact&langs_count=8&hide=html,css&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&icon_color=FFD700&border_color=FFD700" alt="SeneshFitzroy Top Languages" />
+</div>
 
 <p align="center">
   🔥 <em>Driven by innovation, technology, and strategic execution.</em> 🚀
