@@ -18,21 +18,21 @@
   </p>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SeneshFitzroy&color=blue)
-[![Support me](https://img.shields.io/badge/Support%20me-coff.ee/seneshfitzroy-blue?color=yellow)](https://coff.ee/seneshfitzroy)
----
+![alt text](https://komarev.com/ghpvc/?username=SeneshFitzroy&color=blue)
+
+
+![alt text](https://img.shields.io/badge/Support%20me-coff.ee/seneshfitzroy-blue?color=yellow)
 
 I'm a Full-Stack Developer and Project Manager who bridges the gap between technical execution and strategic planning to deliver impactful applications.
 
-- 🌱 **Actively Exploring:** Cloud-native tech, system design, and open-source contributions.
-- 👯 **Open to Collaborating:** Eager to partner on innovative FinTech and productivity tools.
+🌱 Actively Exploring: Cloud-native tech, system design, and open-source contributions.
 
-### 🔗 Connect with Me
+👯 Open to Collaborating: Eager to partner on innovative FinTech and productivity tools.
 
+🔗 Connect with Me
 <p>
   <a href="https://gitlab.com/SeneshFitzroy" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
   <a href="https://linkedin.com/in/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.kaggle.com/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://www.behance.net/seneshfitzroy" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
   <a href="https://dribbble.com/10952757ce7d" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
   <a href="https://www.figma.com/@SeneshFitzroy" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
@@ -44,8 +44,7 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
   <a href="https://styava.dev/profile/profileoverview" target="_blank"><img src="https://img.shields.io/badge/Styava-333333?style=for-the-badge" alt="Styava"/></a>
 </p>
 
-### 🛠️ Technologies & Professional Toolkit
-
+🛠️ Technologies & Professional Toolkit
 <table>
   <!-- Cloud & Deploy -->
   <tr>
@@ -67,9 +66,10 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
       <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></a>
       <a href="https://www.php.net" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
       <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-      <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB"/></a>
       <a href="https://dart.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
       <a href="https://go.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+      <!-- Added MATLAB -->
+      <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MATLAB-ED3C65?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/></a>
       <br><strong>Frameworks & Runtimes:</strong><br>
       <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
       <a href="https://nestjs.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></a>
@@ -81,12 +81,13 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
     <td align="center"><strong>💾 Databases</strong></td>
     <td>
       <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-      <a href="https://supabase.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
       <a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
       <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server"/></a>
       <a href="https://redis.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
       <a href="https://firebase.google.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
+      <!-- Added Supabase -->
+      <a href="https://supabase.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
       <a href="https://www.sqlite.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
     </td>
   </tr>
@@ -97,8 +98,9 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
       <strong>Frameworks & Libraries:</strong><br>
       <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
       <a href="https://reactnative.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
-      <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+      <!-- Added Electron -->
       <a href="https://www.electronjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron"/></a>
+      <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
       <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
       <br><strong>UI & Styling:</strong><br>
       <a href="https://ui.shadcn.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI"/></a>
@@ -116,8 +118,11 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
       <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
       <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
       <a href="https://visualstudio.microsoft.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/></a>
+      <!-- Added Kaggle -->
+      <a href="https://www.kaggle.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
       <br><strong>Design & PM:</strong> 
       <a href="https://www.figma.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+      <!-- Added Adobe Illustrator -->
       <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/></a>
       <a href="https://powerbi.microsoft.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
       <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/></a>
@@ -130,22 +135,23 @@ I'm a Full-Stack Developer and Project Manager who bridges the gap between techn
   </tr>
 </table>
 
-<br/>
-
-<div align="center">
-  <!-- GitHub Stats (Fixed encoding) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SeneshFitzroy&amp;show_icons=true&amp;bg_color=0d1117&amp;title_color=FFD700&amp;text_color=c9d1d9&amp;icon_color=FFD700&amp;border_color=FFD700" alt="SeneshFitzroy GitHub Stats" height="180"/>
-  
-  <!-- Streak Stats (Fixed encoding) -->
-  <img src="https://streak-stats.demolab.com?user=SeneshFitzroy&amp;ring=FFD700&amp;fire=FFD700&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=FFD700&amp;sideLabels=c9d1d9&amp;background=0d1117&amp;border=FFD700&amp;hide_border=false" alt="SeneshFitzroy Streak" height="180"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Top Languages (Fixed encoding) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeneshFitzroy&amp;layout=compact&amp;langs_count=8&amp;hide=html,css&amp;bg_color=0d1117&amp;title_color=FFD700&amp;text_color=c9d1d9&amp;icon_color=FFD700&amp;border_color=FFD700" alt="SeneshFitzroy Top Languages" />
-</div>
+<table align="center">
+  <!-- Row 1: General Stats -->
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SeneshFitzroy&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Profile Summary" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeneshFitzroy&theme=radical" alt="GitHub Contributions" /></td>
+  </tr>
+  <!-- Row 2: Activity & Languages -->
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SeneshFitzroy&theme=radical&hide_border=true" alt="GitHub Activity Streak" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeneshFitzroy&theme=dracula&layout=compact&langs_count=8&hide=html,css" alt="Technical Skills Breakdown" /></td>
+  </tr>
+  <!-- Row 3: Skills & Productivity -->
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeneshFitzroy&theme=radical" alt="Technical Skills" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeneshFitzroy&theme=radical&utcOffset=8" alt="Work Stats" /></td>
+  </tr>
+</table>
 
 <p align="center">
   🔥 <em>Driven by innovation, technology, and strategic execution.</em> 🚀
