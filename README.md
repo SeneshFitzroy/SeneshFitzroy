@@ -20,11 +20,13 @@
 
 ![alt text](https://komarev.com/ghpvc/?username=SeneshFitzroy&color=blue) ![alt text](https://img.shields.io/badge/Support%20me-coff.ee/seneshfitzroy-blue?color=yellow)
 
-I'm a Full-Stack Developer and Project Manager who bridges the gap between technical execution and strategic planning to deliver impactful applications.
+<p align="left">
+  Delivering scalable software solutions by combining engineering expertise with strategic project management. I specialize in aligning technical development with business goals to build high-impact cloud-native applications.
+</p>
 
-🌱 Actively Exploring: Cloud-native tech, system design, and open-source contributions.
-
-👯 Open to Collaborating: Eager to partner on innovative FinTech and productivity tools.
+<p align="left">
+  <strong>Focus:</strong> Cloud-native architecture, System Design, FinTech innovation.
+</p>
 
 🔗 Connect with Me
 <p>
