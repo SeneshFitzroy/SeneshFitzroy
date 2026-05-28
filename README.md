@@ -159,24 +159,11 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SeneshFitzroy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeneshFitzroy&theme=radical&hide_border=true" alt="GitHub Streak"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeneshFitzroy&theme=dracula&layout=compact&langs_count=8&hide=html,css" alt="Top Languages"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeneshFitzroy&theme=radical&utcOffset=5.5" alt="Productive Time"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SeneshFitzroy&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeneshFitzroy&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+</p>
 
 ---
 
