@@ -8,14 +8,6 @@
 
 </div>
 
-<br/>
-
-> BSc (Hons) Software Engineering — University of Plymouth, UK
->
-> I build scalable, cloud-native software by bridging engineering precision with strategic product thinking. My work spans full-stack architecture, fintech systems, and venture leadership — turning technical complexity into measurable business value.
-
-**Core focus:** Cloud-native Architecture &nbsp;·&nbsp; System Design &nbsp;·&nbsp; FinTech Innovation &nbsp;·&nbsp; Product Leadership
-
 ---
 
 ## Connect
