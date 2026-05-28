@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=header&text=Senesh%20Fitzroy&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20Engineer%20%C2%B7%20Project%20Manager%20%C2%B7%20Founder%20at%20CYDO&descSize=16&descAlignY=78&descColor=cccccc" width="100%"/>
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senesh-fitzroy-812151263/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5E14?style=for-the-badge&logo=netlify&logoColor=white)](https://seneshfitzroy.netlify.app/)
-[![CV](https://img.shields.io/badge/Curriculum%20Vitae-239120?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://liveplymouthac-my.sharepoint.com/:b:/g/personal/10952757_students_plymouth_ac_uk/EayKB7EIkG9Mu2GnftzZ2wMBW6uufHHSsCSSkougtB5t3w?e=sYipJR)
+![CV](https://img.shields.io/badge/Curriculum%20Vitae-239120?style=for-the-badge&logo=read-the-docs&logoColor=white)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fitzroysenesh@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=SeneshFitzroy&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SeneshFitzroy)
 
