@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=2000&color=24292F&center=true&vCenter=true&width=500&lines=Senesh+Fitzroy;Full-Stack+Engineer;Project+Manager+%7C+Founder+%40+CYDO)](https://github.com/SeneshFitzroy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=34&pause=99999&color=1F2328&center=true&vCenter=true&width=620&height=60&lines=Architect+of+the+Next+Era...)](https://github.com/SeneshFitzroy)
 
 <br/>
 
