@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=36&pause=99999&color=1F2328&center=true&vCenter=true&width=680&height=65&lines=Shaping+What+the+World+Runs+On...)](https://github.com/SeneshFitzroy)
+![header](https://raw.githubusercontent.com/SeneshFitzroy/SeneshFitzroy/main/header.png)
 
 <br/>
 
