@@ -5,6 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senesh-fitzroy-812151263/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5E14?style=for-the-badge&logo=netlify&logoColor=white)](https://seneshfitzroy.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fitzroysenesh@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=SeneshFitzroy&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SeneshFitzroy)
 
