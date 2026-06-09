@@ -1,11 +1,14 @@
 <div align="center">
 
-<h3> AI Engineer </h3>
-<p>Scaling AI Native Ecosystems and High Performance Architectures</p>
+# Senesh Fitzroy
+
+**Founder & CEO · AI Engineer**
+
+*Building AI-native ecosystems and high-performance architectures at scale*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seneshfitzroy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/senesh-fitzroy)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SeneshFitzroy)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seneshfitzroy/)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@seneshfitzroy)
@@ -15,21 +18,27 @@
 
 </div>
 
-<br/>
+---
 
-## Leadership & Communities
+## About
+
+I'm a founder and AI engineer focused on designing intelligent, production-grade systems that bridge cutting-edge AI research with real-world product delivery. My work spans autonomous agent architectures, cloud-native infrastructure, and full-stack application development — with a strong emphasis on shipping fast and scaling reliably.
+
+---
+
+## Communities & Leadership
 
 [![WhatsApp Community](https://img.shields.io/badge/WhatsApp_Community-Tech_Report-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IrqULT3Gl72L5gNliWztqW)
 [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp_Channel-Official_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7pWK21iUxep8dKLe3C)
 [![WhatsApp Group](https://img.shields.io/badge/WhatsApp_Group-CYDO_Network-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CDlfRW8PacGHsvUWJfGU7V)
 
-<br/>
+---
 
-## Technical Arsenal
+## Technical Stack
 
 <table>
   <tr>
-    <td align="center" width="150"><strong>AI & Advanced Engineering</strong></td>
+    <td align="center" width="160"><strong>AI & Engineering</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white"/>
       <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -55,8 +64,8 @@
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -99,7 +108,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Tooling & Management</strong></td>
+    <td align="center"><strong>Tooling</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -115,9 +124,9 @@
   </tr>
 </table>
 
-<br/>
+---
 
-## Execution Metrics
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SeneshFitzroy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution Streak" height="170"/>
