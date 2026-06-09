@@ -16,7 +16,6 @@
 
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SeneshFitzroy)
 [![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SeneshFitzroy)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SeneshFitzroy/)
 
 [![WhatsApp Community](https://img.shields.io/badge/WhatsApp_Community-Tech_Report-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IrqULT3Gl72L5gNliWztqW)
 [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp_Channel-Official-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7pWK21iUxep8dKLe3C)
