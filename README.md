@@ -1,9 +1,5 @@
 <div align="center">
 
-# Senesh Fitzroy
-
-**Founder & CEO · AI Engineer**
-
 *Building AI-native ecosystems and high-performance architectures at scale*
 
 <br/>
