@@ -1,32 +1,44 @@
-﻿<div align="center">
+<div align="center">
 
-![header](https://raw.githubusercontent.com/SeneshFitzroy/SeneshFitzroy/main/header.png)
+<h3>Founder & CEO | AI Engineer</h3>
+<p>Scaling AI Native Ecosystems and High Performance Architectures</p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senesh-fitzroy-812151263/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seneshfitzroy)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SeneshFitzroy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seneshfitzroy/)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@seneshfitzroy)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/seneshfitzroy)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@seneshfitzroy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fitzroysenesh@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SeneshFitzroy&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SeneshFitzroy)
 
 </div>
 
----
+<br/>
 
-## Connect
-
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SeneshFitzroy)
-[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SeneshFitzroy)
+## Leadership & Communities
 
 [![WhatsApp Community](https://img.shields.io/badge/WhatsApp_Community-Tech_Report-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IrqULT3Gl72L5gNliWztqW)
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp_Channel-Official-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7pWK21iUxep8dKLe3C)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp_Channel-Official_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7pWK21iUxep8dKLe3C)
+[![WhatsApp Group](https://img.shields.io/badge/WhatsApp_Group-CYDO_Network-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CDlfRW8PacGHsvUWJfGU7V)
 
----
+<br/>
 
-## Technical Stack
+## Technical Arsenal
 
 <table>
   <tr>
-    <td align="center" width="150"><strong>Cloud & DevOps</strong></td>
+    <td align="center" width="150"><strong>AI & Advanced Engineering</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Reasoning_Models-0078D4?style=for-the-badge&logo=openai&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Cloud & DevOps</strong></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
       <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
@@ -64,7 +76,7 @@
     <td align="center"><strong>Frontend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js_14/15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"/>
@@ -74,7 +86,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Databases</strong></td>
+    <td align="center"><strong>Databases & BaaS</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -87,7 +99,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Tooling & Design</strong></td>
+    <td align="center"><strong>Tooling & Management</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -103,22 +115,12 @@
   </tr>
 </table>
 
----
+<br/>
 
-## GitHub Activity
+## Execution Metrics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SeneshFitzroy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution Streak" height="170"/>
   &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeneshFitzroy&theme=github_dark&utcOffset=5.5" alt="Activity by Hour" height="170"/>
 </p>
-
----
-
-<div align="center">
-
-*Driven by innovation, engineering excellence, and strategic execution.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" width="100%"/>
-
-</div>
