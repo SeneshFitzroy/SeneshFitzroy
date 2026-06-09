@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>Founder & CEO | AI Engineer</h3>
+<h3> AI Engineer </h3>
 <p>Scaling AI Native Ecosystems and High Performance Architectures</p>
 
 <br/>
