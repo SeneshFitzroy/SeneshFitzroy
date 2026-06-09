@@ -14,14 +14,6 @@
 
 </div>
 
----
-
-## About
-
-I'm a founder and AI engineer focused on designing intelligent, production-grade systems that bridge cutting-edge AI research with real-world product delivery. My work spans autonomous agent architectures, cloud-native infrastructure, and full-stack application development — with a strong emphasis on shipping fast and scaling reliably.
-
----
-
 ## Communities & Leadership
 
 [![WhatsApp Community](https://img.shields.io/badge/WhatsApp_Community-Tech_Report-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IrqULT3Gl72L5gNliWztqW)
