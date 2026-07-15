@@ -23,6 +23,15 @@
 
 ---
 
+## Research Publication Profiles
+
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8637-7509)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Senesh-Fitzroy)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=MmaqKDsAAAAJ)
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-39383A?style=for-the-badge&logo=academia&logoColor=white)](https://trans-techresearch.academia.edu/SeneshFitzroy)
+
+---
+
 ## Technical Stack
 
 <table>
@@ -270,5 +279,4 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SeneshFitzroy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution Streak" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeneshFitzroy&theme=github_dark&utcOffset=5.5" alt="Activity by Hour" height="170"/>
 </p>
